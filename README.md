@@ -1,19 +1,28 @@
-# BlankDweb - Personal Portfolio Website
+# BLANKDWEB - Creative Web Development Team
 
-This is a single-page, static portfolio website for a creative web developer. It is built using only HTML, CSS, and Vanilla JavaScript, with a focus on a premium, modern, and responsive design.
+This repository contains the official website for BLANKDWEB, a creative web development team specializing in modern, scalable, and secure web solutions.
 
-## Preview
+## About Us
 
-It is recommended to view the `index.html` file in a browser to see the complete design and functionality. The site is fully responsive and features animations that are best experienced live.
+We are a team of passionate developers and designers focused on building beautiful, functional, and robust web applications. Our approach combines a deep understanding of website architecture with a keen eye for design and user experience. We partner with startups, fintech companies, and serious businesses to build high-value digital products.
 
-### Step 4: Access Your Site
+## Our Services
 
-GitHub will start a deployment process which may take a minute or two. Once it's complete, your new portfolio website will be live at:
+- **Web Development:** We build high-performance, scalable web applications using modern technologies.
+- **UI/UX Design:** We create intuitive and engaging user interfaces that provide a seamless user experience.
+- **Backend Solutions:** We design and build robust backend systems, APIs, and databases to power your web applications.
 
-`https://your-username.github.io`
+## Technologies Used
 
-Or, if you used a different repository name:
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Fonts:** Google Fonts (Inter, Space Grotesk)
+- **Icons:** BoxIcons
 
-`https://your-username.github.io/my-portfolio`
+## Get in Touch
 
-That's it! Your luxury portfolio is now live.
+We'd love to hear from you! Whether you have a question about our services or just want to say hi, you can reach us at:
+
+- **Email:** yvngthrill9@gmail.com.com
+
+
+&copy; 2026 BLANKDWEB | All Rights Reserved.
